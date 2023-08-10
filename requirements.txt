@@ -3,6 +3,6 @@ WordCloud
 pandas
 Counter
 emoji
-re
 matplotlib.pyplot 
 seaborn
+streamlit
